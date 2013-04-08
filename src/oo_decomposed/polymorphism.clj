@@ -1,8 +1,9 @@
 (ns oo-decomposed.polymorphism
   (:use [clojure.math.numeric-tower]))
 
-
 ;; Welcome to type polymorphism in clojure...
+
+;; This code can be found at https://github.com/jmdb-tutorial/oo-decomposed
 
 (defn rect [width height] {:Shape :Rect :width width :height height})
 
