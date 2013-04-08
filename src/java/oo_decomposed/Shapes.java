@@ -5,6 +5,17 @@ import static java.lang.Math.pow;
 import static java.lang.String.format;
 import static java.lang.System.out;
 
+/**
+ *
+ * To compile:
+ *
+ * lein uberjar
+ *
+ * To run:
+ *
+ * java -jar target/oo-decomposed-<version>.jar
+ * 
+ */
 public class Shapes {
 
     public static interface Shape {
