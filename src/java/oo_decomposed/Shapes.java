@@ -50,11 +50,9 @@ public class Shapes {
 
         private final double radius;
 
-
         public Circle(double radius) {
             this.radius = radius;
         }
-
 
         public double area() {
             return PI * pow(radius, 2);
@@ -69,7 +67,6 @@ public class Shapes {
         out.println(r.area());
         out.println(s.area());
         out.println(c.area());
-
     }
 
 }
