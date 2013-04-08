@@ -1,6 +1,6 @@
 (ns oo-decomposed.core-test
   (:use clojure.test
-        oo-decomposed.core))
+        oo-decomposed.polymorphism))
 
 (deftest a-test
   (testing "FIXME, I fail."
