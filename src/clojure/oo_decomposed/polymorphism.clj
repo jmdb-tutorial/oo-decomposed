@@ -21,12 +21,18 @@
 
 
 (def r (rect 4 13))
+
 (def s (square 2))
+
 (def c (circle 12))
 
 ;;(area r)
+
 ;;(area s)
+
 ;;(area c)
+
+;; What about this?
 ;;(area {})
 
 ;; From Java:
