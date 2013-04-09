@@ -1,6 +1,6 @@
 * The deconstruction of OO in clojure
 
-** TODO Emacs as an evolving tool
+** DONE Emacs as an evolving tool
 
 *** Open source and free
 
